@@ -155,6 +155,7 @@ A list of awesome projects made using Unity.
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
+* [Brackey's Unity Tutorial](http://brackeys.com) - Lots of Unity videos, tips and complete project tutorial for beginners.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
